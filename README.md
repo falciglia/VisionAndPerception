@@ -1,4 +1,4 @@
-# VisionAndPerception - Image Captioning Project
+# VisionAndPerception - Image Captioning
 
 *"Vision and Perception" Course at Sapienza University of Rome, A.Y. 2021/2022.*
 *Professors: Prof. Irene Amerini, Prof. Paolo Russo*
