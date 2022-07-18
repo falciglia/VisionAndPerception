@@ -1,5 +1,7 @@
 # VisionAndPerception - Image Captioning Project
 
+*"Vision and Perception" Course at Sapienza University of Rome, A.Y. 2021/2022.*
+*Professors: Prof. Irene Amerini, Prof. Paolo Russo*
 
 This project is intended to deal with the problem of image captioning, that is, given an image as input, the expected output is the caption of the image. 
 In order to solve such a problem, we merge computer vision techniques for object classification and detection with Natural Language Processing (NLP) techniques, 
