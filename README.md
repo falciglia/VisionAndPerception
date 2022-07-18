@@ -8,7 +8,7 @@ where to look: during the training phase, as the system reads the ground-truth c
 
 The dataset chosen to train our model contains real-world images from MS-COCO (82’783 training images, 40’504 validation images, 81’434 testing images), and other 
 abstract clipart scenes created from models of humans and animals to remove the need to process noisy images and only perform high level reasoning (20’000 training 
-images, 10’000 validation images, 20’000 testing images). Anyway, we opened the Dataset according to my GPU and to proceed with a clearer presentation of the results.
+images, 10’000 validation images, 20’000 testing images). Anyway, I opened the Dataset according to my GPU and to proceed with a clearer presentation of the results.
 
 In here I compared the performance of a baseline model based on an Encoder-Decoder architecture, with the performance of a second model consisting of the same
 Encoder-Decoder architecture in which the "Bahdanau Attention" mechanish is used.
