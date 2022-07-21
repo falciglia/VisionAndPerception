@@ -26,8 +26,7 @@ References:
 
 
 
-*NOTE: Instructions to run the code*
-
+*NOTE: Instructions to run the code* <br />
 In order to run the code, first thing to do is to run the notebook *V&P_PROJECT-DataProcessing.ipynb*, in which I built the Dataset, the Vocabulary and the Word Embeddings for the images captions. The complete execution of the notebook will take a while, since in here I opened the Dataset by choosing just 4/91 different categories with 1k images for each category.
 Consequently, in order to proceed with Image Captioning, run the notebook *V&P_PROJECT-ImageCaptioning.ipynb".
 [All the file paths need to be changed according to your files location]
