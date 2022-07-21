@@ -1,6 +1,6 @@
 # VisionAndPerception - Image Captioning
 
-*"Vision and Perception" Course at Sapienza University of Rome, A.Y. 2021/2022.*
+*"Vision and Perception" Course at Sapienza University of Rome, A.Y. 2021/2022.* <br />
 *Professors: Prof. Irene Amerini, Prof. Paolo Russo*
 
 This project is intended to deal with the problem of image captioning, that is, given an image as input, the expected output is the caption of the image. 
@@ -18,7 +18,7 @@ Model evaluation is carried out by the automated BiLingual Evaluation Understudy
 This evaluates “generated captions” against “reference captions”.
 
 
-References: 
+References: <br />
 1. Show and Tell: A Neural Image Caption Generator.By Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan ICML 2015.
 2. Microsoft COCO dataset
 3. Bird, Steven, Edward Loper and Ewan Klein (2009). Natural Language Processing with Python. O'Reilly Media Inc. 
